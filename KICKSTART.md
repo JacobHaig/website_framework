@@ -40,7 +40,7 @@ Once all five are approved, the agent assembles them into one signed contract �
 2. Save it (or have it ready to paste).
 3. In your agent (Claude Code, Cursor, ChatGPT with files, etc.), paste:
 
-> *I want to build a website. Read `AGENTS.md` in this repo and follow it. Start with Phase 0 — here's my filled-in questionnaire: [paste contents or point to the file]. Work through all phases with me. Do not start writing code until we've completed every phase and I've signed off on the unified `spec/SPEC.md`.*
+> *I want to build a website. Read `AGENTS.md` in this repo and follow it. Start with Phase 0 — here's my filled-in questionnaire: Here's my intake. Read `phases/0-intake.md`. Work through all phases with me. Do not start writing code until we've completed every phase and I've signed off on the unified `spec/SPEC.md`.*
 
 ### Faster path — skip the questionnaire
 
